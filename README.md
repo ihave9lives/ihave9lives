@@ -168,9 +168,9 @@ system behaviour — deployed and demoable.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihave9lives/ihave9lives/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihave9lives/ihave9lives/output/dist/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ihave9lives/ihave9lives/output/dist/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihave9lives/ihave9lives/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihave9lives/ihave9lives/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ihave9lives/ihave9lives/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation" />
 </picture>
 
 <sub><b>The snake is redrawn daily by a GitHub Action, devouring my contribution graph 🐍</b></sub>
